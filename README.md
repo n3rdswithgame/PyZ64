@@ -5,10 +5,10 @@ Currently 1.0 uncompressed roms in any of the 3 formats (z64,v64,n64) are the mo
 
 ## TODO:
 
-*add support for compressed roms
+* add support for compressed roms
 
-*add support for determining rom type
+* add support for determining rom type
 
-*expand stored addresses and versions
+* expand stored addresses and versions
 
-*add example code
+* add example code
